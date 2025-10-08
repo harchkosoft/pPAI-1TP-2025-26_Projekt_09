@@ -2,7 +2,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background: url(/src/images/warszawa.jpg) no-repeat ;
+  background: url(/warszawa.jpg) no-repeat ;
   background-size: cover;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   min-height: 100vh;
@@ -92,3 +92,4 @@ textarea {
     margin-top: 10px;
   }
 }
+
